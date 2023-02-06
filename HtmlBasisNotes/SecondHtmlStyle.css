@@ -1,0 +1,10 @@
+p{color:red}
+#username{font-size: 30px;color:green}
+.password{border: 2px solid red}
+.abc{ 
+    border: 1px solid;
+    /*after adding the margin*/ 
+    margin: 35px;
+   /*after adding the padding*/ 
+   padding: 35px;
+}
