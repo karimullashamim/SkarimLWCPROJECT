@@ -154,7 +154,7 @@ let str1  = 'Hello guys hope you are doing good';
  
    //Task 1: Use of Map Method.
 
-     let array1 =[2,3,4,5,6];
+     let array1 =[2,3,4,5,6,7];
 
      let multipledarry = array1.map(function(currentItem, index, array){
     
